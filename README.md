@@ -12,7 +12,7 @@ HTML
 CSS
 JavaScript (Vanilla JS)
 Instalación y Uso
-Clona este repositorio: git clone
+Clona este repositorio: git clone https://github.com/lamarche5/Proyecto-AmigoSecreto.git
 
 Abre el archivo index.html en un navegador web o con liveserver.
 
