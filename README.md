@@ -12,7 +12,7 @@ HTML
 CSS
 JavaScript (Vanilla JS)
 Instalación y Uso
-Clona este repositorio: git clone https://github.com/LamarcheX/amigo-secreto/tree/main/challenge-amigo-secreto_esp-main
+Clona este repositorio: git clone
 
 Abre el archivo index.html en un navegador web o con liveserver.
 
